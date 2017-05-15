@@ -69,7 +69,7 @@ if __name__ == '__main__':
     nclass = NbodyStarter()
     print 'energy is ', nclass.force()
     plt.ion()
-    # Total Energy=Kinetic Energy+Potential Energy
+
     potentialvar = np.zeros(100)
     kineticvar = np.zeros(100)
 
