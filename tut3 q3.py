@@ -1,3 +1,4 @@
+#Anesan Reddy 211507356
 import numpy
 import matplotlib.pyplot as plt
 N = 100
